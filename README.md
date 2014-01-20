@@ -1,4 +1,4 @@
-geo-scripts
-===========
+Small GeoJSON/PostGIS/Dataset scripts
+=======================================
 
-Small (mostly python) scripts for juggling and converting GeoJSON, PostGIS and such.
+A handful of minor scripts for handling and manipulating data used for and by the dashboard website.
